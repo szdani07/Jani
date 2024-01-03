@@ -1,3 +1,9 @@
 #pic {width: 28px;
         height: 28px}
+
 .felsor {}
+
+#oszlop {height: 100%;
+    width: 150px;}
+
+ul {width: inherit;}
