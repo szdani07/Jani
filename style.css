@@ -1,11 +1,10 @@
 #pic {width: 28px; height: 28px}
-#pic {width: 28px; height: 28px}
 
 #oszlop {height: 100%; width: 150px;}
 
-#lista {width: inherit; list-style-image: url();}
+#lista {width: inherit; list-style-image: url(a.png)}
 
 body {font-family: Arial, Helvetica, sans-serif;}
 
+.tanaroklist2{}
 
-.tanaroklist2{ }
