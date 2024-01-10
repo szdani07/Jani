@@ -1,12 +1,9 @@
-#pic {width: 28px;
-        height: 28px}
+#pic {width: 28px; height: 28px}
 
-.felsor {}
+#oszlop {height: 100%; width: 150px;}
 
-#oszlop {height: 100%;
-    width: 150px;}
-
-ul {width: inherit;}
+#lista {width: inherit; list-style-image: url();}
 
 body {font-family: Arial, Helvetica, sans-serif;}
+
 
