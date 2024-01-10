@@ -4,9 +4,10 @@
 
 #oszlop {height: 100%; width: 150px;}
 
-ul {width: inherit;}
+#lista {width: inherit; list-style-image: url();}
 
 body {font-family: Arial, Helvetica, sans-serif;}
+
 
 .tanaroklist2{ }
 
@@ -17,3 +18,5 @@ body {font-family: Arial, Helvetica, sans-serif;}
 .div02{width: 300px; height: 137px;}
 
 .div03{width: 300px; height: 57px;}
+
+
