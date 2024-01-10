@@ -1,15 +1,15 @@
-#pic {width: 28px; height: 28px}
 
 .felsor{}
 
 #oszlop {height: 100%; width: 150px;}
 
-#lista {width: inherit; list-style-image: url();}
+#lista {width: inherit; list-style-image: url(a.png)}
 
 body {font-family: Arial, Helvetica, sans-serif;}
 
+.tanaroklist2{}
 
-.tanaroklist2{ }
+
 
 .div1{width: 300px; border: 1px black solid; border-radius: 10px;}
 
