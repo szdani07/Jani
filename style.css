@@ -8,10 +8,9 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
 .ol1{list-style: none; width: 300px; height: 294px; display: inline-block; float: inline-start;} 
 
+.div1{width: 300px; border: 1px rgb(151, 151, 151) solid; border-radius: 10px; list-style: none; font-size: 125%;}
 
-.div1{width: 300px; border: 1px black solid; border-radius: 10px; list-style: none;}
-
-.div01{width: 300px; height: 100px;}
+.div01{width: 300px; height: 100px; position: relative;}
 
 .div02{width: 300px; height: 137px;}
 
@@ -19,3 +18,6 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
 .img-fluid {height: 28px; width: 28px;}
 
+.imgg{border-radius: 50%; height: 72px; width: 72px; position: relative;}
+
+.divv{width: 100px; height: 100px; float: right;}
