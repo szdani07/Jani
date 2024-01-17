@@ -2,9 +2,9 @@
 
 body {font-family: Arial, Helvetica, sans-serif;}
 
-.tanaroklist2{}
+.tanaroklist2{display: inline-block; inline-size: auto;}
 
-.ol1{list-style: none;}
+.ol1{list-style: none; width: 300px; height: 294px; display: inline-block; float: inline-start;} 
 
 
 .div1{width: 300px; border: 1px black solid; border-radius: 10px; list-style: none;}
