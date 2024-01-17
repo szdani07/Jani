@@ -4,9 +4,10 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
 .tanaroklist2{}
 
+.ol1{list-style: none;}
 
 
-.div1{width: 300px; border: 1px black solid; border-radius: 10px;}
+.div1{width: 300px; border: 1px black solid; border-radius: 10px; list-style: none;}
 
 .div01{width: 300px; height: 100px;}
 
