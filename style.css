@@ -10,7 +10,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 
 .div1{width: 300px; border: 1px rgb(151, 151, 151) solid; border-radius: 10px; list-style: none; font-size: 125%;}
 
-.div01{width: 300px; height: 100px; position: relative; background-image: url(img_breakfast.jpg); background-size: cover; border-radius: 9px;}
+.div01{width: 300px; height: 100px; position: relative; background-image: url(kepek/img_breakfast.jpg); background-size: cover; border-radius: 9px;}
 
 .div02{width: 300px; height: 137px;}
 
