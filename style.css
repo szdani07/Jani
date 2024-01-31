@@ -23,21 +23,6 @@ body {
     float: inline-start;
 } 
 
-.div001{
-    width: 300px; 
-    border: 1px rgb(151, 151, 151) solid; 
-    border-radius: 10px; 
-    list-style: none; 
-    font-size: 125%;
-}
-
-#div01{
-    position: relative; 
-    background-image: url(kepek/img_breakfast.jpg); 
-    background-size: cover; 
-    border-radius: 9px;
-}
-
 .div1{
     width: 300px; 
     border: 1px rgb(151, 151, 151) solid; 
@@ -49,14 +34,17 @@ body {
 .div01{
     width: 300px; 
     height: 100px; 
+    position: relative;  
+    background-size: cover; 
+    border-radius: 9px;
 }
 
-.div02{
+.div2{
     width: 300px; 
     height: 137px;
 }
 
-.div03{
+.div3{
     width: 300px; 
     height: 57px;
 }
@@ -77,4 +65,35 @@ body {
     width: 100px; 
     height: 100px; 
     float: right;
+}
+
+#div01kep{
+    background-image: url(kepek/); 
+}
+#div02kep{
+    background-image: url(kepek/); 
+}
+#div03kep{
+    background-image: url(kepek/); 
+}
+#div04kep{
+    background-image: url(kepek/); 
+}
+#div05kep{
+    background-image: url(kepek/); 
+}
+#div06kep{
+    background-image: url(kepek/); 
+}
+#div07kep{
+    background-image: url(kepek/); 
+}
+#div08kep{
+    background-image: url(kepek/); 
+}
+#div09kep{
+    background-image: url(kepek/); 
+}
+#div010kep{
+    background-image: url(kepek/); 
 }
