@@ -1,0 +1,99 @@
+.list-group{
+    width: 200px
+}
+
+.img1{
+    border-radius: 50%;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tanaroklist2{
+    display: inline-block; 
+    inline-size: auto;
+}
+
+.ol1{
+    list-style: none; 
+    width: 300px; 
+    height: 294px; 
+    display: inline-block; 
+    float: inline-start;
+} 
+
+.div1{
+    width: 300px; 
+    border: 1px rgb(151, 151, 151) solid; 
+    border-radius: 10px; 
+    list-style: none; 
+    font-size: 125%;
+}
+
+.div01{
+    width: 300px; 
+    height: 100px; 
+    position: relative;  
+    background-size: cover; 
+    border-radius: 9px;
+}
+
+.div2{
+    width: 300px; 
+    height: 137px;
+}
+
+.div3{
+    width: 300px; 
+    height: 57px;
+}
+
+.img-fluid{
+    height: 28px; 
+    width: 28px;
+}
+
+.imgg{
+    border-radius: 50%; 
+    height: 72px; 
+    width: 72px; 
+    position: relative;
+}
+
+.divv{
+    width: 100px; 
+    height: 100px; 
+    float: right;
+}
+
+#div01kep{
+    background-image: url(kepek/); 
+}
+#div02kep{
+    background-image: url(kepek/); 
+}
+#div03kep{
+    background-image: url(kepek/); 
+}
+#div04kep{
+    background-image: url(kepek/); 
+}
+#div05kep{
+    background-image: url(kepek/); 
+}
+#div06kep{
+    background-image: url(kepek/); 
+}
+#div07kep{
+    background-image: url(kepek/); 
+}
+#div08kep{
+    background-image: url(kepek/); 
+}
+#div09kep{
+    background-image: url(kepek/); 
+}
+#div010kep{
+    background-image: url(kepek/); 
+}
